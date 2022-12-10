@@ -1,4 +1,64 @@
 {
   "app_title": "justodo",
-  "android_back_button_message": "Press the 'Back' button once more to close the app."
+  "android_back_button_message": "もう一度「戻る」ボタンを押してアプリを閉じます。",
+
+  "force_update_message": "アプリを使うには\n最新バージョンを更新する必要があります。",
+
+  "ads_popup_title": "❗️ 広告を視聴して{featureTitle}を無料で使用",
+  "ads_popup_message": "広告をご覧いただくと、引き続き{featureTitle}機能を無料でご利用いただけます。",
+
+  "common_confirm": "完了",
+  "common_delete": "削除",
+  "common_cancel": "キャンセル",
+  "common_ad_view": "広告を見る",
+
+  "common_feedback_thanks": "できるだけ早くお答えします。",
+  "common_email_copied": "コピーした。",
+
+  "common_delete_all_popup_title": "本当にすべてを削除しますか?",
+  "common_delete_all_popup_message1": "次回はポップアップなしで削除します!",
+  "common_delete_all_popup_message2": "削除ボタンを押すと削除されます!",
+
+  "todo_add" : "作業に追加",
+  "todo_settings" : "実行する設定",
+
+  "settings_example_title": "実例",
+  "settings_example_1": "読書",
+  "settings_example_2": "エクササイズ",
+
+  "settings_font_title": "FONT",
+  "settings_font_size_title": "フォントサイズ",
+  "settings_font_size_small": "小さい",
+  "settings_font_size_medium": "媒介物",
+  "settings_font_size_large": "大きい",
+  "settings_font_size_cancel_line_title": "キャンセルラインを表示",
+
+  "settings_checkbox_title": "CHECKBOX",
+  "settings_checkbox_animation_sort_title": "アニメーションの種類",
+  "settings_checkbox_animation_stroke": "債務不履行",
+  "settings_checkbox_animation_fillScaleColor": "scale",
+  "settings_checkbox_animation_fillScaleCheck": "scale + fade",
+  "settings_checkbox_animation_fillFade": "fade",
+  "settings_checkbox_animation_enable_title": "アニメーションを適用",
+
+  "settings_design_title": "DESIGN",
+  "settings_design_row_height_title": "行の高さ",
+  "settings_design_row_height_medium": "媒介物",
+  "settings_design_row_height_large": "大きい",
+  "settings_design_show_divider_title": "分周器の表示",
+  "settings_design_show_order_icon_title": "並べ替えアイコンを表示",
+
+  "settings_detail_title": "DETAIL",
+  "settings_detail_last_empty_save_title": "最後のエントリの空の文字列を保存します。",
+  "settings_detail_recommend_title": "提案を表示する",
+  "settings_detail_recommend_delete_all_title": "提案の削除",
+  "settings_detail_show_delete_all_popup_title": "[すべて削除]ポップアップを表示",
+
+  "footer_app_review_title": "レビュー",
+  "footer_friend_marketing_title": "友達に宣伝する",
+  "footer_feedback_title": "フィードバック",
+  "footer_eula_title": "利用規約",
+  "footer_privacy_title": "プライバシーポリシー",
+  "footer_open_source_license_title": "オープンソースライセンス",
+  "footer_license_title": "ライセンス"
 }
