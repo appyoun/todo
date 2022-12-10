@@ -1,4 +1,64 @@
 {
   "app_title": "justodo",
-  "android_back_button_message": "'뒤로' 버튼을 한번 더 누르시면 앱이 종료됩니다."
+  "android_back_button_message": "'뒤로' 버튼을 한번 더 누르시면 앱이 종료됩니다.",
+
+  "force_update_message": "정상적으로 앱을 사용하기 위해서는\\n최신 버전으로 업데이트가 필요해요.",
+
+  "ads_popup_title": "❗️ 광고 보고 {featureTitle} 무료로 이용하기",
+  "ads_popup_message": "광고 시청해주시면 {featureTitle} 기능을 계속 무료로 이용하실 수 있어요!",
+
+  "common_confirm": "확인",
+  "common_delete": "삭제",
+  "common_cancel": "취소",
+  "common_ad_view": "광고 시청하기",
+
+  "common_feedback_thanks": "빠른 시내에 답변 드리겠습니다.",
+  "common_email_copied": "이메일이 복사되었습니다.",
+
+  "common_delete_all_popup_title": "전체 삭제하시겠어요?",
+  "common_delete_all_popup_message1": "다음부터는 팝업없이 바로 전체 제거돼요!",
+  "common_delete_all_popup_message2": "삭제 버튼을 누르시면 바로 전체 삭제돼요!",
+
+  "todo_add" : "To do 추가",
+  "todo_settings" : "To do 설정",
+
+  "settings_example_title": "예시",
+  "settings_example_1": "책 읽기",
+  "settings_example_2": "운동하기",
+
+  "settings_font_title": "폰트",
+  "settings_font_size_title": "글씨 크기",
+  "settings_font_size_small": "작게",
+  "settings_font_size_medium": "보통",
+  "settings_font_size_large": "크게",
+  "settings_font_size_cancel_line_title": "글자 취소선 보이기",
+
+  "settings_checkbox_title": "체크박스",
+  "settings_checkbox_animation_sort_title": "애니메이션 종류",
+  "settings_checkbox_animation_stroke": "기본",
+  "settings_checkbox_animation_fillScaleColor": "스케일",
+  "settings_checkbox_animation_fillScaleCheck": "스케일 + 페이드",
+  "settings_checkbox_animation_fillFade": "페이드",
+  "settings_checkbox_animation_enable_title": "애니메이션 적용하기",
+
+  "settings_design_title": "디자인",
+  "settings_design_row_height_title": "줄 높이",
+  "settings_design_row_height_medium": "보통",
+  "settings_design_row_height_large": "크게",
+  "settings_design_show_divider_title": "간격 줄 보이기",
+  "settings_design_show_order_icon_title": "순서 변경 아이콘 보이기",
+
+  "settings_detail_title": "상세 설정",
+  "settings_detail_last_empty_save_title": "마지막 항목 빈 문자열 저장하기",
+  "settings_detail_recommend_title": "추천 항목 보이기",
+  "settings_detail_recommend_delete_all_title": "추천 항목 전체 삭제",
+  "settings_detail_show_delete_all_popup_title": "전체 삭제 팝업 보이기",
+
+  "footer_app_review_title": "앱 평가하기",
+  "footer_friend_marketing_title": "친구에게 알리기",
+  "footer_feedback_title": "문의 및 버그 신고",
+  "footer_eula_title": "이용약관",
+  "footer_privacy_title": "개인정보처리방침",
+  "footer_open_source_license_title": "오픈소스 라이선스",
+  "footer_license_title": "기타 라이선스"
 }
