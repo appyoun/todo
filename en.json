@@ -1,4 +1,64 @@
 {
   "app_title": "justodo",
-  "android_back_button_message": "Press the 'Back' button once more to close the app."
+  "android_back_button_message": "Press the 'Back' button once more to close the app.",
+
+  "force_update_message": "To use the app,\nyou need to update the latest version.",
+
+  "ads_popup_title": "❗️ Watch ads and use {featureTitle} for free",
+  "ads_popup_message": "If you watch the ad, you can continue to use the {featureTitle} feature for free!",
+
+  "common_confirm": "Done",
+  "common_delete": "Delete",
+  "common_cancel": "Cancel",
+  "common_ad_view": "Watch ads",
+
+  "common_feedback_thanks": "We'll give you an answer as soon as possible.",
+  "common_email_copied": "copied.",
+
+  "common_delete_all_popup_title": "Are you sure you want to delete all?",
+  "common_delete_all_popup_message1": "Next time, it will be removed without a pop-up!",
+  "common_delete_all_popup_message2": "If you press the delete button, it will be deleted!",
+
+  "todo_add" : "Add to do",
+  "todo_settings" : "Settings to do",
+
+  "settings_example_title": "example",
+  "settings_example_1": "Reading books",
+  "settings_example_2": "Exercise",
+
+  "settings_font_title": "FONT",
+  "settings_font_size_title": "Font Size",
+  "settings_font_size_small": "small",
+  "settings_font_size_medium": "medium",
+  "settings_font_size_large": "large",
+  "settings_font_size_cancel_line_title": "Show cancellation line",
+
+  "settings_checkbox_title": "CHECKBOX",
+  "settings_checkbox_animation_sort_title": "Animation Type",
+  "settings_checkbox_animation_stroke": "default",
+  "settings_checkbox_animation_fillScaleColor": "scale",
+  "settings_checkbox_animation_fillScaleCheck": "scale + fade",
+  "settings_checkbox_animation_fillFade": "fade",
+  "settings_checkbox_animation_enable_title": "Apply animation",
+
+  "settings_design_title": "DESIGN",
+  "settings_design_row_height_title": "Row Height",
+  "settings_design_row_height_medium": "medium",
+  "settings_design_row_height_large": "large",
+  "settings_design_show_divider_title": "Show divider",
+  "settings_design_show_order_icon_title": "Show reorder icon",
+
+  "settings_detail_title": "DETAIL",
+  "settings_detail_last_empty_save_title": "Save last entry empty string",
+  "settings_detail_recommend_title": "Show suggestions",
+  "settings_detail_recommend_delete_all_title": "Delete suggestions",
+  "settings_detail_show_delete_all_popup_title": "Show delete all popup",
+
+  "footer_app_review_title": "Review",
+  "footer_friend_marketing_title": "Promote to your friends",
+  "footer_feedback_title": "Feedback",
+  "footer_eula_title": "Terms of Use",
+  "footer_privacy_title": "Privacy Policy",
+  "footer_open_source_license_title": "Open Source License",
+  "footer_license_title": "License"
 }
